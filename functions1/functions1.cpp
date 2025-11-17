@@ -477,3 +477,4 @@ bool endingMenu(HANDLE headerColor, int& menuChoice, const string& videoGame, do
 
     return (userChoice == 'y');
 }
+//Git demo assignment comment.
