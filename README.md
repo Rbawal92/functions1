@@ -14,10 +14,10 @@ This project is built to practice:
 
 ---
 # Class Information
-**ITCS 2530**
-**Raymond Bawal III**
-**Professor Koss**
-##  Features
+- Raymond Bawal III 
+- ITCS 2530  
+- Professor Koss 
+
 
 **Intro banner with console color**  
   Uses `SetConsoleTextAttribute` (wrapped in `setConsoleColor`) to display a bright welcome banner.
