@@ -36,5 +36,5 @@ This project is built to practice:
 
  **Enum-based game tier**
   ```cpp
-  enum GameTier { LOW_TIER, GOOD_TIER, SUPER_TIER
+  enum GameTier { LOW_TIER, GOOD_TIER, SUPER_TIER }
 ---
